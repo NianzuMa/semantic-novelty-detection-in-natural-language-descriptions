@@ -1,3 +1,3 @@
-# EMNLP-2021:  Semantic Novelty Detection in Natural Language Descriptions
+# Semantic Novelty Detection in Natural Language Descriptions
 
 Under Construction ...
